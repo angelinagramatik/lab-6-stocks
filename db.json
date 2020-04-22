@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Angelina",
+      "surname": "Gramatik",
+      "email": "angelinagramatik@gmail.com",
+      "money": 4369.285569590963
+    },
+    {
+      "id": 4,
+      "name": "Maria",
+      "surname": "Samoilenko",
+      "email": "marrrria@gmail.com",
+      "money": "4522.11"
+    },
+    {
+      "id": 5,
+      "name": "Kostya",
+      "surname": "Gramatik",
+      "email": "konstantin@gmail.com",
+      "money": "3563.119"
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "name": "ASAD",
+      "price": "19.0609",
+      "user": 1
+    },
+    {
+      "id": 2,
+      "name": "APPLE",
+      "price": "4.4517",
+      "user": 2
+    },
+    {
+      "name": "evi",
+      "price": 13.12673165038416,
+      "user": 3,
+      "bought_at": "17.04.2020, 21:40:09",
+      "id": 6
+    },
+    {
+      "name": "lnkd",
+      "price": 77.21503079959484,
+      "user": 2,
+      "bought_at": "17.04.2020, 21:42:21",
+      "id": 10
+    },
+    {
+      "name": "ebr",
+      "price": 48.41746116381624,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:09",
+      "id": 11
+    },
+    {
+      "name": "lnkd",
+      "price": 123.45043893166135,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:14",
+      "id": 12
+    },
+    {
+      "name": "aks",
+      "price": 145.75604360852216,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:16",
+      "id": 13
+    },
+    {
+      "name": "mu",
+      "price": 22.477901907219678,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:19",
+      "id": 14
+    },
+    {
+      "name": "shld",
+      "price": 11.650565880063773,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:21",
+      "id": 15
+    },
+    {
+      "name": "eva",
+      "price": 196.75520285706529,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:23",
+      "id": 16
+    },
+    {
+      "name": "yhoo",
+      "price": 69.2407174576351,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:26",
+      "id": 17
+    },
+    {
+      "name": "intc",
+      "price": 18.015716941163966,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:28",
+      "id": 18
+    },
+    {
+      "name": "tck",
+      "price": 195.90694891446276,
+      "user": 3,
+      "bought_at": "17.04.2020, 22:11:30",
+      "id": 19
+    },
+    {
+      "name": "msft",
+      "price": 112.71419617311999,
+      "user": 3,
+      "bought_at": "17.04.2020, 23:50:25",
+      "id": 20
+    },
+    {
+      "name": "goog",
+      "price": 41.86904986135753,
+      "user": 3,
+      "bought_at": "18.04.2020, 11:45:56",
+      "id": 21
+    },
+    {
+      "name": "aapl",
+      "price": 35.66764038596584,
+      "user": 3,
+      "bought_at": "18.04.2020, 12:32:23",
+      "id": 22
+    },
+    {
+      "name": "msft",
+      "price": 26.353491306272765,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:07:07 PM",
+      "id": 23
+    },
+    {
+      "name": "msft",
+      "price": 51.158583090761006,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:07:15 PM",
+      "id": 24
+    },
+    {
+      "name": "msft",
+      "price": 51.158583090761006,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:07:17 PM",
+      "id": 25
+    },
+    {
+      "name": "evi",
+      "price": 53.530083837308815,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:09:04 PM",
+      "id": 26
+    },
+    {
+      "name": "evi",
+      "price": 53.530083837308815,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:09:06 PM",
+      "id": 27
+    },
+    {
+      "name": "evi",
+      "price": 163.98270839524403,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:09:09 PM",
+      "id": 28
+    },
+    {
+      "name": "shld",
+      "price": 183.0543604256234,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:10:22 PM",
+      "id": 32
+    },
+    {
+      "name": "shld",
+      "price": 195.60768484514767,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:11:46 PM",
+      "id": 34
+    },
+    {
+      "name": "evi",
+      "price": 127.6206949553067,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:11:51 PM",
+      "id": 35
+    },
+    {
+      "name": "msft",
+      "price": 39.05841576340691,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:11:59 PM",
+      "id": 36
+    },
+    {
+      "name": "ebr",
+      "price": 121.24895633569393,
+      "user": 1,
+      "bought_at": "4/22/2020, 8:12:11 PM",
+      "id": 38
+    },
+    {
+      "name": "shld",
+      "price": 92.02441224610548,
+      "user": 2,
+      "bought_at": "4/22/2020, 11:46:28 PM",
+      "id": 40
+    },
+    {
+      "name": "evi",
+      "price": 55.360361794330295,
+      "user": 2,
+      "bought_at": "4/23/2020, 12:35:02 AM",
+      "id": 41
+    },
+    {
+      "name": "goog",
+      "price": 82.6088368443542,
+      "user": 2,
+      "bought_at": "4/23/2020, 12:36:18 AM",
+      "id": 43
+    },
+    {
+      "name": "tck",
+      "price": 192.44754139278777,
+      "user": 2,
+      "bought_at": "4/23/2020, 12:36:28 AM",
+      "id": 44
+    }
+  ]
+}
